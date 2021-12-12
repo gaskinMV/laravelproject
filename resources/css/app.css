@@ -1,0 +1,303 @@
+.navbar
+{
+    font-family: Montserrat;
+    height: 80px;
+    width: 1440px;
+    margin: auto;
+}
+.nav-item
+{
+    font-size:15px;
+}
+.hpadding{
+    margin-left: 138px;
+}
+.navbar-brand
+{
+    margin-top: 30px;
+    margin-bottom: 27px;
+    font-size:22px;
+    color:#C81F56;
+    line-height: 30px;
+    letter-spacing: 0.15px;
+}
+.navbar-collapse
+{
+    margin-left:496px;
+    margin-top: 33px;
+    margin-bottom: 31px;
+}
+.nav-link
+{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: -0.01em;
+    color: #000000;
+    white-space: nowrap;
+}
+.nav-item
+{
+    padding-left:16px;
+}
+
+.footerPadding{
+    margin: auto;
+    width: 881px;
+
+}
+.footerTxt1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.01em;
+    color: #000000;
+}
+.fPadding2{
+    padding-top: 21px;
+}
+.footerTxt2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.01em;
+    color: rgba(0, 0, 0, 0.3);
+}
+.fPadding3{
+    padding-top: 23px;
+}
+.btn6{
+    margin-top: 100px;
+    width: 217px;
+    height: 43px;
+    position: absolute;
+    background: #FE840E;
+    border-radius: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.btnAdd{
+    margin-top: 25px;
+    margin-left: 97px;
+    width: 217px;
+    height: 43px;
+    position: absolute;
+    background: #FE840E;
+    border-radius: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.fPadding4{
+    margin-left:100px;
+}
+.fPadding5{
+    margin-top:180px;
+    margin-left: -45px;
+}
+.fNav{
+    margin-top: -10px;
+}
+ul.hr{
+    display:flex;
+    list-style:none;
+}
+.linkTxt{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.01em;
+    color: rgba(0, 0, 0, 0.5)
+}
+.headerTxt{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 100px;
+    letter-spacing: -0.01em;
+    text-align: center;
+}
+.contheaderTxt{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 100px;
+    letter-spacing: -0.01em;
+}
+.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.caption{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    align-items: center;
+}
+.thumbnail{
+    padding-top: 10px;
+}
+.btn1{
+    background-color: #FEB447;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+}
+.border{
+    border:2px;
+}
+.productNameTxt{
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+.priceTxt{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    color:#FEB447;
+    font-size: 32px;
+}
+.butCont{
+    display: flex;
+    margin-left: 95px;
+    margin-right: auto;
+}
+.params{
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 20px;
+}
+.paramNames{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+.qTxt{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.number {
+    margin-left: 127px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: relative;
+    text-align: left;
+    padding: 0;
+    width: 140px;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
+.number-minus, .number-plus {
+    position: absolute;
+    top: 0;
+    width: 40px;
+    height: 32px;
+    line-height: 32px;
+    display: block;
+    background: #faf4f2;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    font-family: arial;
+    color: #3e1e02;
+    text-decoration: none;
+}
+.number-minus {
+    left: 0;
+    border-right: 1px solid #ddd;
+}
+.number-plus {
+    right: 0;
+    border-left: 1px solid #ddd;
+}
+.number-minus:hover, .number-plus:hover {
+    background: #fffcfb;
+}
+.number-minus:active, .number-plus:active {
+    background: #e8e4e2;
+}
+.number-text{
+    display: inline-block;
+    font-size: 14px;
+    color: #000;
+    line-height: 32px;
+    height: 32px;
+    padding: 0;
+    margin: 0 0 0 42px;
+    background: #fff;
+    outline: none;
+    border: none;
+    width: 57px;
+    text-align: center;
+}
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: 1fr auto;
+}
+.navbar{
+    grid-row-start: 0;
+    grid-row-end: 1;
+}
+footer {
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+.basketProductNameTxt{
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 18px;
+}
+.basketPadding{
+    margin-top: 10px;
+}
+.result{
+    margin-top: 20px;
+}
+
+
